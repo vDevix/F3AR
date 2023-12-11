@@ -1,6 +1,6 @@
 Simulated Hacking Awareness Website Usage Policy:
 
-	1.	Educational Purpose: This website is intended for educational purposes only. It simulates a hacked computer environment to raise awareness about cybersecurity threats and promote understanding of potential risks.
+	1.	Educational Purpose: All websites are intended for educational purposes only. It simulates a hacked computer environment to raise awareness about cybersecurity threats and promote understanding of potential risks.
 	2.	No Malicious Intent: Users are strictly prohibited from using the simulated environment for any malicious activities, including attempting to deceive or harm others. Misuse may result in legal consequences.
 	3.	Personal Use Only: The website is designed for personal use and educational purposes. Users are not allowed to use the simulated environment to impersonate or harm others, and commercial use is strictly prohibited.
 	4.	No Unauthorized Access: Users must not attempt to gain unauthorized access to any system or network. The simulated hacking experience is limited to the functionalities provided on the website and should not be used for any form of hacking beyond the intended simulation.
